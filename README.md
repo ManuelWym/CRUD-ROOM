@@ -21,21 +21,6 @@ Hacer un CRUD con Room en un sistema manejo de tareas, este programa debe *CREAR
 ## Base de datos
 
 
-|               Task              |
-|_________________________________|
-| id (llave primaria AUTO INCRE)  |
-| task_title (String)             |
-| task_description (String)       |
-| created_at (String)             |
-| is_completed (Boolean)          |
-|_________________________________|
-| -insertTask()                   |
-| -getAllTasks()                  |
-| -updateTask()                   |
-| -deleteTask()                   |
-| -getTaskById()                  |
-
-
 
 
 ## Capturas de pantalla de las interfaces de usuario
