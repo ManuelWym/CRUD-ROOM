@@ -27,8 +27,7 @@
 Hacer un CRUD con Room en un sistema manejo de tareas, este programa debe _CREAR_, _LEER_, _ACTUALIZAR_ y _ELIMINAR_ tarea.
 
 ## Base de datos
-
-<img width="270" height="600" alt="image" src="Assets\TablaBaseDatos.PNG" />
+<img width="300" height="300" alt="image" src="Assets\TablaBaseDatos.PNG" />
 
 ## Capturas de pantalla de las interfaces de usuario
 
