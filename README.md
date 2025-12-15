@@ -20,7 +20,7 @@ Hacer un CRUD con Room en un sistema manejo de tareas, este programa debe *CREAR
 
 ## Base de datos
 
-
+<img width="270" height="600" alt="image" src="Assets\TablaBaseDatos.PNG" />
 
 
 ## Capturas de pantalla de las interfaces de usuario
@@ -29,26 +29,26 @@ Hacer un CRUD con Room en un sistema manejo de tareas, este programa debe *CREAR
 Muestra la lista de tareas, en la parte inferior derecha de la pantalla hay un boton para crear una nueva tarea.
 
 
-<img width="270" height="600" alt="image" src="" />
+<img width="270" height="600" alt="image" src="Assets\Inicio.png" />
 
 
 #### Crear una tarea: 
 Para crear una tarea debes presionar el boton que se encuentra del lado inferior derecho y se desplegara este menu:
-<img width="270" height="600" alt="image" src="" />
+<img width="270" height="600" alt="image" src="Assets\CrearTarea.png" />
 
 
 #### Actualizar una tarea:
 Para actualizar una tarea debes presionar la tarea a modificar y se desplegara el menu con los datos para hacer los cambios.
 Antes:
-<img width="270" height="600" alt="image" src="" />
+<img width="270" height="600" alt="image" src="Assets\ModificarTarea1.png" />
 Despues:
-<img width="270" height="600" alt="image" src="" />
+<img width="270" height="600" alt="image" src="Assets\ModificarTarea2.png" />
 
 
 #### Eliminar una tarea: 
 Para elimiar una trea debes mantener presionado, cunado se realiza el proceso el programa muestra un mensaje que confirma el exito del proceso.
 Antes:
-<img width="270" height="600" alt="image" src="" />
+<img width="270" height="600" alt="image" src="Assets\TareaEliminada1.png" />
 Despues:
-<img width="270" height="600" alt="image" src="" />
+<img width="270" height="600" alt="image" src="Assets\TareaEliminada2.png" />
 
